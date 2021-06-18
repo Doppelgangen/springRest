@@ -1,0 +1,4 @@
+com/Application.class
+com/controllers/MainController.class
+com/repository/UserRepository.class
+com/model/User.class
